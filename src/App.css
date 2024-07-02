@@ -1,0 +1,16 @@
+body{
+  background-image: radial-gradient(rgb(93, 198, 250),rgb(245, 135, 223));
+  color: #ffffff ;
+  
+
+}
+
+.cards__container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.heading{
+  text-align: center;
+}
